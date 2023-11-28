@@ -9,7 +9,7 @@ WORKDIR /usr/src/app
 COPY calc.py .
 
 # Define the command to run the application
-CMD ["python","calc.py"]
+CMD ["python","calculator.py"]
 
 
 

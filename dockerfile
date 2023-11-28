@@ -14,5 +14,5 @@ CMD ["python","calculator.py"]
 
 
 
-GRUB_CMDLINE_LINUX_DEFAULT="quiet splash security=selinux selinux=1 crashkernel=768M-:256M"
-GRUB_CMDLINE_LINUX_DEFAULT="quiet splash security=selinux selinux=1 crashkernel=768M-:256M"
+#GRUB_CMDLINE_LINUX_DEFAULT="quiet splash security=selinux selinux=1 crashkernel=768M-:256M"
+#GRUB_CMDLINE_LINUX_DEFAULT="quiet splash security=selinux selinux=1 crashkernel=768M-:256M"
